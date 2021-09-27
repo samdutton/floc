@@ -19,7 +19,7 @@ In today's web, people’s interests are typically inferred based on observing w
 
 We plan to explore ways in which a browser can group together people with similar browsing habits, so that ad tech companies can observe the habits of large groups instead of the activity of individuals. Ad targeting could then be partly based on what group the person falls into.
 
-  
+   
 
 Browsers would need a way to form clusters that are both useful and private: Useful by collecting people with similar enough interests and producing labels suitable for machine learning, and private by forming large clusters that don't reveal information that's too personal, when the clusters are created, or when they are used.
 
